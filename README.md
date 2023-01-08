@@ -1,2 +1,2 @@
 # todo-app-js
-Todo app I made using JavaScript and bootstrap
+[You can find the live version](https://omerkr0.github.io/todo-app-js/) of the Todo application I made using JavaScript and bootstrap here.
